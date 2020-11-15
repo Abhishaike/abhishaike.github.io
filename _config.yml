@@ -24,13 +24,13 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
- - about.md
+# - about.md
 
 # Build settings
 theme: minima
 
 # Google Analytics
-# google_analytics: G-GL4EMF8MM7
+google_analytics: G-GL4EMF8MM7
 
 plugins:
  - jekyll-feed
