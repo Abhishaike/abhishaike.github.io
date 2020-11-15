@@ -26,6 +26,9 @@ minima:
 #header_pages:
  - about.md
 
+# Google Analytics
+google_analytics: G-GL4EMF8MM7
+
 # Build settings
 theme: minima
 
