@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm currently an ML scientist at [anthem.ai](https:/anthem.ai), working on applied clinical research problems using EHR's. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+In the past, I was a data scientist at [Beyond Limits](https:/beyond.ai), and did research internships at [toSense](https://www.tosense.com/) and [Maxim Integrated](https://www.maximintegrated.com/en.html). 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I also did some fun medical imaging AI work with [Dr. Baowei Fei](https://be.utdallas.edu/people/faculty/baowei-fei/) and neurostimulation work with [Dr. Michael Kilgard](https://bbs.utdallas.edu/faculty/detail.php5?i=311) during my undergrad, which was in Cognitive Science from UT-Dallas. 
 
+I also draw whenever I have the motivation, primarily with either pen or digital. 
 
-[jekyll-organization]: https://github.com/jekyll
+My research can be found on my [Google Scholar](https://scholar.google.com/citations?user=fSyeqzAAAAAJ&hl=en).
