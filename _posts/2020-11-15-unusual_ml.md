@@ -8,7 +8,7 @@ Every now and then, I stumble across unusual, contradictory, or just plain 'that
 #### 1. Platt-scaled non-LR models may yield MUCH better calibration results compared to an LR model, even when the accuracies of the two are identical. (11/5/2020)
   * More specifically, lets say you have two classifiers: a gradient-boosted tree and a logistic-regression. The former obviously gives poorly calibrated results, the latter (is supposed) to give well-calibrated results. And lets say that, because we have a relatively simple dataset, the metrics between the two are identical. If you platt-scale the gradient boosted tree, what you may find is *massively better calibration compared to the logistic-regression*. Personally, I would've expected nearly identical calibration results given that the metrics between the two are the same. 
   
-#### 2. Emebedding layers are mathmatically identical to one-hot encoding categorical inputs + dense layers. The only difference is in computational/memory expense. (11/5/2020) 
+#### 2. Embedding layers are mathmatically identical to one-hot encoding categorical inputs + dense layers. The only difference is in computational/memory expense. (11/5/2020) 
   * [Here's a more in-depth explanation](https://stackoverflow.com/questions/47868265/what-is-the-difference-between-an-embedding-layer-and-a-dense-layer). Obvious after thinking a bit about it, but I always assumed there was something extra going on in the embedding layers.
   
 #### 3. Using shallow copies of lists in a Spark UDF's *will* lead to nondeterministic behavior that is extremely difficult to track down. (11/5/2020) 
