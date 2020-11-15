@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unusual Things in Machine Learning and Data Science (Running list)
+title: Unusual Things in Applied Machine Learning (Running list)
 categories: [machine-learning, list]
 ---
 Every now and then, I stumble across unusual, contradictory, or just plain 'that can't be right' results in my work, and I never really document them. I'd like to change that! This is a running list of things that meet my own criteria for strangeness. Many of these may have perfectly reasonable explanations and/or would be obvious to others, but I personally found them to be unintuitive. 
