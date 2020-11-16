@@ -1,1 +1,1 @@
-My website based off this template: https://github.com/jekyll/minima
+My website is based off this template: https://github.com/jekyll/minima
